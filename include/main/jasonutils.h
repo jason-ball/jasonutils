@@ -17,8 +17,10 @@
 #ifndef JASONUTILS_H
 #define JASONUTILS_H
 
-int add(int a, int b);
+namespace jasonutils {
+  int add(int a, int b);
 
-int subtract(int a, int b);
+  int subtract(int a, int b);
+}
 
 #endif

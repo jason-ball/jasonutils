@@ -16,6 +16,6 @@
 
 #include "../../include/main/jasonutils.h"
 
-int subtract(int a, int b) {
+int jasonutils::subtract(int a, int b) {
   return a - b;
 }
