@@ -6,7 +6,7 @@ os:
 
 compiler:
   - clang
-  - gcc
+  - g++
 
 before_script:
   - mkdir build
