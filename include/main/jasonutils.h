@@ -21,4 +21,6 @@ int add(int a, int b);
 
 int subtract(int a, int b);
 
+void reverse(void *array[], int count);
+
 #endif
