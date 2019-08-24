@@ -4,7 +4,7 @@ A C library containing some methods that I frequently use in my projects.
 
 ## Installation Instructions
 ```shell
-git clone https://github.com/jasonericball/jasonutils.git
+git clone https://github.com/jason-ball/jasonutils.git
 cd jasonutils
 cmake .
 make
