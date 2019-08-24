@@ -16,6 +16,7 @@
 
 #include "../../include/main/jasonutils.h"
 
-int jasonutils::add(int a, int b) {
-  return a + b;
+int jasonutils::add(int a, int b)
+{
+    return a + b;
 }
