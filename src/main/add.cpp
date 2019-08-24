@@ -1,4 +1,4 @@
-// jasonutils - a c library
+// jasonutils - a C++ library
 // Copyright (C) 2019 Jason Ball
 
 // This program is free software: you can redistribute it and/or modify
